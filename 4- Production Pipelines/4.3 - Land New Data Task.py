@@ -8,4 +8,4 @@ load_new_json_data()
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC SELECT * from json.`${dataset.bookstore}/books-cdc/02.json`
+# MAGIC SELECT * from json.`/Volumes/dev/default/bookstore/books-cdc/02.json`
